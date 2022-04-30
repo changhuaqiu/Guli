@@ -1,13 +1,13 @@
-package com.atguigu.gulimail.order;
+package com.atguigu.gulimail.ware;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GulimailOrderApplication {
+public class GulimailWareApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GulimailOrderApplication.class, args);
+        SpringApplication.run(GulimailWareApplication.class, args);
     }
 
 }

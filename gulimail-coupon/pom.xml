@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.atguigu.gulimail</groupId>
-    <artifactId>gulimail-order</artifactId>
+    <artifactId>gulimail-coupon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gulimail-order</name>
-    <description>gulimail-order</description>
+    <name>gulimail-coupon</name>
+    <description>gulimail-coupon</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2021.0.2</spring-cloud.version>
