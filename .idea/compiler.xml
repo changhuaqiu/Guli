@@ -14,6 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Guli" target="1.5" />
       <module name="gulimail-coupon" target="1.8" />
       <module name="gulimail-member" target="1.8" />
       <module name="gulimail-order" target="1.8" />
